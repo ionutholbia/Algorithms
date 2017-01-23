@@ -4,6 +4,6 @@
     "version": "0.1.0",
     "command": "g++",
     "isShellCommand": true,
-    "args": ["-g", "main.cpp", "-o", "../BuildOutput/QuickSort.o"],
+    "args": ["-g", "-std=c++11", "-Wall", "main.cpp", "-o", "../BuildOutput/QuickSort.o"],
     "showOutput": "always"
 }
