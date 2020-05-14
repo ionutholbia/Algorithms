@@ -4,3 +4,8 @@
 
 *.db
 *.opendb
+
+.fake
+.ionide
+*.dSYM
+*.o
